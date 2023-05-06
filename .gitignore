@@ -1,0 +1,26 @@
+error.log
+*.log
+
+/Static/
+Static/
+
+
+dir
+dir/
+
+New Folder
+New Folder/
+
+/dir/
+/dir
+
+/New Folder
+/New Folder/
+
+Again Modified
+///
+
+ad.accdb
+//
+
+
